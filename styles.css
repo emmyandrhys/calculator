@@ -1,3 +1,8 @@
+**classes for digits:
+    right-top   right-bottom    top-right-top   top-bottom-left-bottom     top-bottom-right-bottom
+    left-right-top  top-right-bottom    top-left-top    all-bottom  all-top bottom-left-right-bottom
+
+
 :root {
     --fillcolor: rgb(1,1,1);
     --fontcolor: rgb(200,200,200);
